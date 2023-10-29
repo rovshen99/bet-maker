@@ -1,0 +1,9 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+aioredis==2.0.0
+aio-pika==6.8.0
+pydantic==1.10.13
+httpx==0.23.0
+pytest==7.4.3
+pytest-asyncio==0.21.1
+fakeredis==2.20.0
